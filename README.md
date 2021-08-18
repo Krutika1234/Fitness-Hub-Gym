@@ -1,2 +1,2 @@
-# Fitness-Hub-Gym
+# Fitness-Hub-GYM
 Fitness website
